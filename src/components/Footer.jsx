@@ -6,6 +6,7 @@ import {
   FaPhone,
   FaMapMarkerAlt,
   FaClock,
+  FaTelegram,
 } from 'react-icons/fa';
 
 const Footer = () => {
@@ -82,6 +83,14 @@ const Footer = () => {
               className="text-gray-300 hover:text-red-500 flex items-center gap-2"
             >
               <FaYoutube className="text-xl" /> YouTube
+            </a>
+            <a
+              href="https://t.me/+WsI1KLHNrak1NWY9" // <-- Add your Telegram channel link here
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-blue-400 flex items-center gap-2"
+            >
+              <FaTelegram className="text-xl" /> Telegram
             </a>
           </div>
         </div>
