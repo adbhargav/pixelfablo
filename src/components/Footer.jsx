@@ -68,7 +68,7 @@ const Footer = () => {
           <h3 className="text-lg font-semibold mb-4 text-gray-200">Connect With Us</h3>
           <div className="flex flex-col items-center md:items-start space-y-3">
             <a
-              href="https://instagram.com/pixelfable"
+              href="https://www.instagram.com/pixelfable18?igsh=eTlqbHRlc2lrNWd5"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-pink-500 flex items-center gap-2"
@@ -76,7 +76,7 @@ const Footer = () => {
               <FaInstagram className="text-xl" /> Instagram
             </a>
             <a
-              href="https://youtube.com/pixelfable"
+              href="https://youtube.com/@pixelfable18?si=864TjNkPbarYP37O"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-red-500 flex items-center gap-2"
