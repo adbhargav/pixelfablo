@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 w-full bg-black border-b border-gray-800 px-4 py-3 flex items-center justify-between z-50 shadow">
       {/* Logo */}
       <Link to="/" className="text-2xl font-bold tracking-wide text-white">
-        Pixe Fablo
+        PIXELFABLE
       </Link>
 
       {/* Desktop Nav */}
