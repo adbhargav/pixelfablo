@@ -173,7 +173,7 @@ export default function Home() {
         {/* About Image (right, below on mobile) */}
         <div className="w-full md:w-1/3 flex justify-center mb-8 md:mb-0 md:ml-8 order-2 md:order-2">
           <img
-            src="/assets/hero4.png"
+            src="/svg.jpg"
             alt="About Pixelfable"
             className="rounded-lg shadow-lg w-full max-w-[320px] h-[320px] object-cover border border-gray-700"
           />
