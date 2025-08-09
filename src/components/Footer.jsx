@@ -16,7 +16,7 @@ const Footer = () => {
         {/* Logo + Description */}
         <div className="flex flex-col items-center md:items-start text-center md:text-left col-span-1">
           <img
-            src="/assets/logo.png"
+            src="svg.jpg"
             alt="Pixelfable Logo"
             className="w-20 h-20 mb-4"
             onError={(e) => {
